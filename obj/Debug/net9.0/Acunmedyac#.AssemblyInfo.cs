@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Acunmedyac#")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6858854753f21616354e5cdb30357b6a3362224b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+83b9508267768237de1ee995bdcafdb7b24d8e0f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Acunmedyac#")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Acunmedyac#")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

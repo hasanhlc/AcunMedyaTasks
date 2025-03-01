@@ -124,14 +124,8 @@ namespace ConsoleApp1
             Console.WriteLine(word);
         }
         
-        //Yedinci Soru
 
-        // Bir string dizisinin boyutunu dinamik olarak genişleten algoritmayı yazınız.
-
-        string[] words3 = { "Ali", "Veli", "Ahmet", "Mehmet", "Ayşe", "Fatma" };
-        string[] newWords = new string[words3.Length + 1];
-
-
+        // bu ödevin hepsini yapamadım.
 
 
 
@@ -149,6 +143,8 @@ namespace ConsoleApp1
         // Metotlar parametre alabilirler ve bu parametreler metotun içinde kullanılabilirler. Bu sayede metodu çağırırken içine değer gönderebiliriz.
         // --------------------------------------------------------------------------------------------
 
+
+        }
 
     }
 }
