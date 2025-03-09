@@ -1,0 +1,4 @@
+C:\Users\USER\Desktop\Acunmedya ödevleri\OPPTraining\obj\Debug\net9.0\OPPTraining.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Acunmedya ödevleri\OPPTraining\obj\Debug\net9.0\OPPTraining.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Acunmedya ödevleri\OPPTraining\obj\Debug\net9.0\OPPTraining.AssemblyInfo.cs
+C:\Users\USER\Desktop\Acunmedya ödevleri\OPPTraining\obj\Debug\net9.0\OPPTraining.csproj.CoreCompileInputs.cache

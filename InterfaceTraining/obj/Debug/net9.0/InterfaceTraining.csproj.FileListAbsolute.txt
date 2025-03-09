@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\Acunmedya ödevleri\InterfaceTraining\bin\Debug\net9.0\InterfaceTraining.exe
+C:\Users\USER\Desktop\Acunmedya ödevleri\InterfaceTraining\bin\Debug\net9.0\InterfaceTraining.deps.json
+C:\Users\USER\Desktop\Acunmedya ödevleri\InterfaceTraining\bin\Debug\net9.0\InterfaceTraining.runtimeconfig.json
+C:\Users\USER\Desktop\Acunmedya ödevleri\InterfaceTraining\bin\Debug\net9.0\InterfaceTraining.dll
+C:\Users\USER\Desktop\Acunmedya ödevleri\InterfaceTraining\bin\Debug\net9.0\InterfaceTraining.pdb
+C:\Users\USER\Desktop\Acunmedya ödevleri\InterfaceTraining\obj\Debug\net9.0\InterfaceTraining.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Acunmedya ödevleri\InterfaceTraining\obj\Debug\net9.0\InterfaceTraining.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Acunmedya ödevleri\InterfaceTraining\obj\Debug\net9.0\InterfaceTraining.AssemblyInfo.cs
+C:\Users\USER\Desktop\Acunmedya ödevleri\InterfaceTraining\obj\Debug\net9.0\InterfaceTraining.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Acunmedya ödevleri\InterfaceTraining\obj\Debug\net9.0\InterfaceTraining.dll
+C:\Users\USER\Desktop\Acunmedya ödevleri\InterfaceTraining\obj\Debug\net9.0\refint\InterfaceTraining.dll
+C:\Users\USER\Desktop\Acunmedya ödevleri\InterfaceTraining\obj\Debug\net9.0\InterfaceTraining.pdb
+C:\Users\USER\Desktop\Acunmedya ödevleri\InterfaceTraining\obj\Debug\net9.0\InterfaceTraining.genruntimeconfig.cache
+C:\Users\USER\Desktop\Acunmedya ödevleri\InterfaceTraining\obj\Debug\net9.0\ref\InterfaceTraining.dll
