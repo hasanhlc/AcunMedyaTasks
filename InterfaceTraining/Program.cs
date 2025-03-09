@@ -53,6 +53,22 @@ class Developer : Employee
     }
 }
 
+class EmployeeProgram
+{
+    static void Main()
+    {
+        Manager manager = new Manager(1, "Ali", 5000, "IT", 10);
+        Developer developer = new Developer(2, "Ayse", 4000, "Software", "C# Developer");
+
+        Console.WriteLine($"Manager Bonus: {manager.CalculateBonus()}");
+        Console.WriteLine($"Developer Bonus: {developer.CalculateBonus()}");
+    }
+}
+
+
+
+// ---------------------------------------------------------------------------------------------------------------
+
 class BankAccount
 {
     public string AccountHolder;
@@ -91,16 +107,10 @@ class CheckingAccount : BankAccount
     }
 }
 
-class Program
+class BankProgram
 {
     static void Main()
     {
-        Manager manager = new Manager(1, "Ali", 5000, "IT", 10);
-        Developer developer = new Developer(2, "Ayşe", 4000, "Software", "C# Developer");
-
-        Console.WriteLine($"Manager Bonus: {manager.CalculateBonus()}");
-        Console.WriteLine($"Developer Bonus: {developer.CalculateBonus()}");
-
         SavingsAccount savings = new SavingsAccount("Mehmet", 10000);
         CheckingAccount checking = new CheckingAccount("Fatma", 5000);
 

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\USER\\Desktop\\Acunmedya ödevleri\\InterfaceTraining\\InterfaceTraining.csproj",
+      "projectUniqueName": "C:\\Users\\USER\\Desktop\\Acunmedya ödevleri\\Acunmedyac#\\InterfaceTraining\\InterfaceTraining.csproj",
       "projectName": "InterfaceTraining",
-      "projectPath": "C:\\Users\\USER\\Desktop\\Acunmedya ödevleri\\InterfaceTraining\\InterfaceTraining.csproj",
+      "projectPath": "C:\\Users\\USER\\Desktop\\Acunmedya ödevleri\\Acunmedyac#\\InterfaceTraining\\InterfaceTraining.csproj",
       "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\USER\\Desktop\\Acunmedya ödevleri\\InterfaceTraining\\obj\\",
+      "outputPath": "C:\\Users\\USER\\Desktop\\Acunmedya ödevleri\\Acunmedyac#\\InterfaceTraining\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
